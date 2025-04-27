@@ -1,0 +1,90 @@
+{
+    "left": 17,
+    "right": 90,
+    "top": 94,
+    "bottom": 17,
+    "isolines": [
+        {
+            "name": "Isobare",
+            "farbe": "#ff80c0",
+            "stil": "-",
+            "dicke": "1",
+            "anzahl": "6"
+        },
+        {
+            "name": "Isotherme",
+            "farbe": "#cc81fe",
+            "stil": "-",
+            "dicke": "1",
+            "anzahl": "6"
+        },
+        {
+            "name": "Isochore",
+            "farbe": "#6bb1fe",
+            "stil": "-",
+            "dicke": "1",
+            "anzahl": "6"
+        },
+        {
+            "name": "Isentrope",
+            "farbe": "#6bfefe",
+            "stil": "-",
+            "dicke": "1",
+            "anzahl": "6"
+        },
+        {
+            "name": "Isenthalpe",
+            "farbe": "#6bfeaa",
+            "stil": "-",
+            "dicke": "1",
+            "anzahl": "6"
+        },
+        {
+            "name": "Isovapore",
+            "farbe": "#ddfe6b",
+            "stil": "-",
+            "dicke": "1",
+            "anzahl": "6"
+        },
+        {
+            "name": "Siedelinie",
+            "farbe": "#5441fe",
+            "stil": "-",
+            "dicke": "2",
+            "anzahl": "1"
+        },
+        {
+            "name": "Taulinie",
+            "farbe": "#004080",
+            "stil": "-",
+            "dicke": "2",
+            "anzahl": "1"
+        }
+    ],
+    "data": [
+        {
+            "name": "Daten",
+            "farbe": "#000000",
+            "marker": "o",
+            "gr\u00f6\u00dfe": "2"
+        },
+        {
+            "name": "ausgew\u00e4hlte Daten",
+            "farbe": "#ff00ff",
+            "marker": "o",
+            "gr\u00f6\u00dfe": "2"
+        },
+        {
+            "name": "Kritischer Punkt",
+            "farbe": "#ff0000",
+            "marker": "o",
+            "gr\u00f6\u00dfe": "6"
+        },
+        {
+            "name": "Tripelpunkt",
+            "farbe": "#13ec59",
+            "marker": "o",
+            "gr\u00f6\u00dfe": "6"
+        }
+    ]
+}
